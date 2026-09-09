@@ -61,7 +61,7 @@ body {
 
 }
  .botoes.ativo{
-    background-color: #043dfc var(--botao-ativo);
+    background-color: #b604fc var(--botao-ativo);
     border-botton: 4px solid var (--verde);
  }
 .abas-textos{
