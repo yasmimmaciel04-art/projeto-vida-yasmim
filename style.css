@@ -68,12 +68,16 @@ body {
     background-color: #382557;var(--texto-fundo);
     padding: 40px;
     border-radius:0 0 40px 40px;
+
  }
+ 
 .abas-contexto.ativo{
     display:block;
 }
 
-
+.aba-conteudo{
+    display: none;
+}
 
 
 
