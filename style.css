@@ -65,7 +65,7 @@ body {
     border-botton: 4px solid var (--verde);
  }
 .abas-textos{
-    background-color: #2109fd;var(--texto-fundo);
+    background-color: #72f6ff;var(--texto-fundo);
     padding: 40px;
     border-radius:0 0 40px 40px;
  }
