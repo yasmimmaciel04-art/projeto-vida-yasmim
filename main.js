@@ -1,9 +1,13 @@
 const botoes= document. querySelectorall(".botao");
-    for(let i=0;i<botoes. lenght; i++){}
+    for(let i=0;i<botoes. lenght; i++){
         botoes[i].onclick= function(){
+            botoes[i].classlist.add("ativo");
+            botoes
+        }
+    }
+        
+      
+
    botoes[i].classlist.add("ativo");
       botoes[i].classlist.add("ativo");
     
-
-    }
-      

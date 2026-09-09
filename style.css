@@ -58,13 +58,20 @@ body {
 
 .botoes {
     display: block;
+
 }
  .botoes.ativo{
     background-color: var(--botao-ativo);
     border-botton: 4px solid var (--verde);
  }
-
-
+.abas-textos{
+    background-color: #3A375E;var(--texto-fundo);
+    padding: 40px;
+    border-radius:0 0 40px 40px;
+ }
+.abas-contexto.ativo{
+    display:block;
+}
 
 
 
