@@ -61,11 +61,11 @@ body {
 
 }
  .botoes.ativo{
-    background-color: #6FFF57 var(--botao-ativo);
+    background-color: #043dfc var(--botao-ativo);
     border-botton: 4px solid var (--verde);
  }
 .abas-textos{
-    background-color: #3A375E;var(--texto-fundo);
+    background-color: #d116c8;var(--texto-fundo);
     padding: 40px;
     border-radius:0 0 40px 40px;
  }
