@@ -60,12 +60,12 @@ body {
     display: block
 }
  .botoes.ativo{
-    background-color: #04fc42 var(--botao-ativo);
+    background-color: var(--botao-ativo);
     border-botton: 4px solid var (--verde);
  }
 
 .abas-textos{
-    background-color: #382557;var(--texto-fundo);
+    background-color: var(--texto-fundo);
     padding: 40px;
     border-radius:0 0 40px 40px;
 
